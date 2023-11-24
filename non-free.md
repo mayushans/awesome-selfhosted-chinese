@@ -1,274 +1,274 @@
-# Awesome Selfhosted - Non-Free Software
+# Awesome Selfhosted Chinese - 非自由软件
 
-**Software listed here does not meet the [Free Software](https://en.wikipedia.org/wiki/Free_software) definition**. It implements their own licensing with restrictions and grants which you must check on each case. Restrictions may include limits on allowed use of the software, access to the source code, modification and further redistribution. This software can therefore contain anti user-freedom features, such as but not limited to: backdoors, user lock-in, sending personal data to a third party.
-
---------------------
-
-## Table of contents
-
-- [Software](#software)
-  - [Automation](#automation)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - SIP](#communication---sip)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Database Management](#database-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [E-commerce](#e-commerce)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [Games](#games)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Proxy](#proxy)
-  - [Resource Planning](#resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-- [List of Licenses](#list-of-licenses)
+**此处列出不符合[自由软件](https://en.wikipedia.org/wiki/Free_software) 定义的软件**。 它使用自己的许可，有限制和补充，您必须根据具体情况进行检查。 限制可能包括对软件的允许使用、源代码访问、修改和进一步重新分发的限制。 因此，该软件可能包含反自由的用户功能，例如但不限于：后门、用户锁定、向第三方发送个人数据。
 
 --------------------
 
-## Software
+## 目录
 
-### Automation
+- [软件](#软件)
+  - [自动化](#自动化)
+  - [通讯 - 定制通讯系统](#通讯---定制通讯系统)
+  - [通讯 - 电子邮件 - 邮件列表和新闻通讯](#通讯---电子邮件---邮件列表和新闻通讯s)
+  - [通讯 - SIP](#通讯---sip)
+  - [内容管理系统 (CMS)](#内容管理系统-cms)
+  - [数据库管理](#数据库管理)
+  - [文档管理 - 电子书](#文档管理---电子书)
+  - [电子商务](#电子商务)
+  - [文件传输 - 同步](#文件传输---同步)
+  - [文件传输 - 对象存储和文件服务器](#文件传输---对象存储和文件服务器)
+  - [游戏](#游戏)
+  - [物联网 (IoT)](#物联网-iot)
+  - [知识管理工具](#知识管理工具)
+  - [地图和全球定位系统 (GPS)](#地图和全球定位系统-gps)
+  - [流媒体 - 视频流](#流媒体---视频流)
+  - [杂项](#杂项)
+  - [资金、预算和管理](#资金预算和管理)
+  - [照片和视频画廊](#照片和视频画廊)
+  - [代理](#代理)
+  - [资源规划](#资源规划)
+  - [搜索引擎](#搜索引擎)
+  - [自托管解决方案](#自托管解决方案)
+  - [软件开发 - 项目管理](#软件开发---项目管理)
+  - [软件开发 - 测试](#软件开发---测试)
+  - [票务](#票务)
+  - [时间追踪](#时间追踪)
+- [许可证列表](#许可证列表)
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+--------------------
 
-- [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
+## 软件
 
+### 自动化
 
-### Communication - Custom Communication Systems
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [n8n](https://n8n.io/) - 基于免费节点的工作流程自动化工具。 轻松自动化跨不同服务的任务。 ([源代码](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
 
-- [Chaskiq](https://chaskiq.io) - Full featured live chat, help center and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code](https://github.com/chaskiq/chaskiq)) `AGPL-3.0/Commons-Clause` `Ruby`
-- [Groupboard](https://www.groupboard.com/products/) - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback. `⊘ Proprietary` `Unknown`
-- [PrivMX WebMail](https://privmx.com) - Alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `⊘ Proprietary` `PHP`
-- [Virola Messenger](https://virola.io/) - Instant messaging and collaboration tool with private and group chat rooms, continuous voice and video meetings, files sharing, issue tracking with integrated task board. Alternative to Slack and others. `⊘ Proprietary` `C++`
-- [WorkAdventure](https://workadventu.re) - Virtual office / virtual conference application presented as a 16-bit RPG video game. ([Demo](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [Source Code](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
+### 通讯 - 定制通讯系统
 
-### Communication - Email - Mailing Lists and Newsletters
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Chaskiq](https://chaskiq.io) - 全功能实时聊天、帮助中心和 CRM，作为 Intercom & Drift、Crisp 等的替代品。 ([源代码](https://github.com/chaskiq/chaskiq)) `AGPL-3.0/Commons-Clause` `Ruby`
+- [Groupboard](https://www.groupboard.com/products/) - 在线白板、音频/视频会议、屏幕共享、共享代码编辑和可选的会话录制/回放。 `⊘ Proprietary` `Unknown`
+- [PrivMX WebMail](https://privmx.com) - 替代私人邮件系统 - 基于网络、端到端加密设计、自托管、去中心化、使用独立的 PKI。 易于安装和管理，免费软件，开源。 `⊘ Proprietary` `PHP`
+- [Virola Messenger](https://virola.io/) - 即时消息和协作工具，具有私人和群组聊天室、连续语音和视频会议、文件共享、带有集成任务板的问题跟踪。 Slack 等的替代品。 `⊘ Proprietary` `C++`
+- [WorkAdventure](https://workadventu.re) - 以 16 位 RPG 视频游戏形式呈现的虚拟办公室/虚拟会议应用程序。 ([演示](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [源代码](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
 
-- [Sendy](https://sendy.co) - Self-hosted email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services. `⊘ Proprietary` `PHP`
 
+### 通讯 - 电子邮件 - 邮件列表和新闻通讯
 
-### Communication - SIP
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Sendy](https://sendy.co) - 自托管电子邮件通讯应用程序，可让您通过 Amazon Simple Email Service (SES) 或其他 SMTP 服务发送批量电子邮件。 `⊘ Proprietary` `PHP`
 
-- [3CX](https://www.3cx.com/pbx/) - Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system. `⊘ Proprietary` `Unknown`
 
+### 通讯 - SIP
 
-### Content Management Systems (CMS)
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [3CX](https://www.3cx.com/pbx/) - 功能齐全的 PABX 系统，在一个系统上提供呼叫队列、内置网络会议、实时聊天和社交媒体消息传递。 `⊘ Proprietary` `Unknown`
 
-- [CraftCMS](https://craftcms.com/) - Content-first CMS that aims to make life enjoyable for developers and content managers alike. ([Demo](https://craftcms.com/demo), [Source Code](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
-- [Kirby](https://getkirby.com/) - File-based CMS. Easy to setup. Easy to use. Flexible as hell. ([Source Code](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
-- [october](https://octobercms.com/) - Self-hosted CMS platform based on the Laravel PHP Framework. ([Source Code](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
 
+### 内容管理系统 (CMS)
 
-### Database Management
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [CraftCMS](https://craftcms.com/) - 内容优先的 CMS，旨在让开发人员和内容管理员等的生活变得愉快。 ([演示](https://craftcms.com/demo), [源代码](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
+- [Kirby](https://getkirby.com/) - 基于文件的 CMS。 易于设置。 便于使用。 灵活得要命。 ([源代码](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
+- [october](https://octobercms.com/) - 基于 Laravel PHP 框架的自托管 CMS 平台。 ([源代码](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
 
-- [Cluster Control](https://severalnines.com/clustercontrol/) - Setup many databases in few clicks with monitoring, load balancing and more. `⊘ Proprietary` `deb/Ansible/Shell/Docker`
 
+### 数据库管理
 
-### Document Management - E-books
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Cluster Control](https://severalnines.com/clustercontrol/) - 只需点击几下即可设置许多数据库，并具有监控、负载平衡等功能。 `⊘ Proprietary` `deb/Ansible/Shell/Docker`
 
-- [Bookwyrm](https://joinbookwyrm.com/) - Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
-- [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
 
+### 文档管理 - 电子书
 
-### E-commerce
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Bookwyrm](https://joinbookwyrm.com/) - 用于跟踪您的阅读情况、谈论书籍、撰写评论以及发现接下来要读什么的社交网络。 ([源代码](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
+- [Ubooquity](https://vaemendis.net/ubooquity/) - 免费使用、多功能、轻量级、多平台且安全的家庭服务器，适用于您的漫画和电子书库。 `⊘ Proprietary` `Java`
 
-- [Sharetribe](https://www.sharetribe.com) - Open-source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
+### 电子商务
 
-### File Transfer & Synchronization
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Sharetribe](https://www.sharetribe.com) - 用于创建您自己的点对点市场的开源平台，也可用于 SaaS 模型。 ([源代码](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
-- [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
-- [Resilio Sync](https://www.resilio.com/) - Proprietary peer-to-peer file synchronisation tool. `⊘ Proprietary` `Unknown`
-- [Yetishare](https://yetishare.com) - Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage. ([Demo](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
+### 文件传输 - 同步
 
-### File Transfer - Object Storage & File Servers
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [FileRun](https://www.filerun.com/) - 与 Google 和 Office 集成的完整文件解决方案。 ([演示](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
+- [Resilio Sync](https://www.resilio.com/) - 专有的点对点文件同步工具。 `⊘ Proprietary` `Unknown`
+- [Yetishare](https://yetishare.com) - 强大的文件托管脚本，支持 Amazon S3、Wasabi、Backblaze、本地、直接和 SFTP 存储。([演示](https://fhscript.com)) `⊘ Proprietary` `PHP`
 
-- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - Multi-user file storage and sharing application. ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
 
+### 文件传输 - 对象存储和文件服务器
 
-### Games
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - 多用户文件存储和共享应用程序。 ([演示](https://cloud.daneeskripter.dev), [源代码](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
 
-- [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `Javascript`
-- [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
 
+### 游戏
 
-### Internet of Things (IoT)
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - 3D 2048 游戏的克隆。 ([演示](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `Javascript`
+- [untrusted](https://github.com/AlexNisnevich/untrusted) - 专为极客和开发人员设计的独特益智游戏，您可以通过阅读和编写 Javascript 来解决游戏中的难题。 ([演示](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
 
-- [Atman IoT](https://atman-iot.com) - Self hosted IoT gateway focused on IoT solution rapid prototyping, packaged as stand alone docker container, promising to help you build your IoT solution in a week. ([Demo](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
+### 物联网 (IoT)
 
-### Knowledge Management Tools
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Atman IoT](https://atman-iot.com) - 自托管 IoT 网关专注于 IoT 解决方案快速原型设计，打包为独立的 Docker 容器，承诺帮助您在一周内构建 IoT 解决方案。 ([演示](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
-- [Wiznote](https://www.wiz.cn/docker) - Manage your knowledge in documents with folders, markdown, full text search and webpage collection support. ([Demo](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
 
+### 知识管理工具
 
-### Maps and Global Positioning System (GPS)
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Wiznote](https://www.wiz.cn/docker) - 通过文件夹、Markdown、全文搜索和网页收藏支持管理文档中的知识。 ([演示](https://www.wiz.cn/), [Clients](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
 
-- [MapTiler Server](https://www.maptiler.com/server/) - Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database. `⊘ Proprietary` `Unknown`
 
+### 地图和全球定位系统 (GPS)
 
-### Media Streaming - Video Streaming
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [MapTiler Server](https://www.maptiler.com/server/) - 用于自托管 OpenStreetMap 矢量切片、卫星图像、自有地理数据和 PostGIS 数据库数据的软件。 `⊘ Proprietary` `Unknown`
 
-- [Channels DVR Server](https://getchannels.com/dvr-server/) - Flexible server providing a whole home self hosted DVR experience for [Channels](https://getchannels.com). `⊘ Proprietary` `Unknown`
-- [Emby](https://emby.media/) - Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box. `⊘ Proprietary` `C#`
-- [Plex](https://www.plex.tv/) - Centralized home media playback system with a powerful central server. `⊘ Proprietary` `Unknown`
-- [Subsonic](http://www.subsonic.org/pages/index.jsp) - Web-based media streamer and jukebox. ([Demo](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
+### 流媒体 - 视频流
 
-### Miscellaneous
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Channels DVR Server](https://getchannels.com/dvr-server/) - 灵活的服务器为 [Channels](https://getchannels.com) 提供整个家庭自托管 DVR 体验。 `⊘ Proprietary` `Unknown`
+- [Emby](https://emby.media/) - 家庭媒体服务器支持 DLNA 和 DIAL (Chromecast) 设备，开箱即用。 `⊘ Proprietary` `C#`
+- [Plex](https://www.plex.tv/) - 具有强大中央服务器的集中式家庭媒体播放系统。 `⊘ Proprietary` `Unknown`
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) - 基于网络的媒体流媒体和点唱机。 ([演示](http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check)) `⊘ Proprietary` `Unknown`
 
-- [Keygen](https://github.com/keygen-sh/keygen-api) - Self-hosted software licensing and distribution API. `Elastic-2.0` `Ruby`
-- [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet. `⊘ Proprietary` `Unknown`
-- [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - Lightning-fast remote support and remote access to connect instantly and solve problems faster. `⊘ Proprietary` `Unknown`
 
+### 杂项
 
-### Money, Budgeting & Management
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Keygen](https://github.com/keygen-sh/keygen-api) - 自托管的软件许可和分发 API。 `Elastic-2.0` `Ruby`
+- [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities 是自托管远程支持软件，用于通过 Internet 进行 LAN 管理和远程支持。 `⊘ Proprietary` `Unknown`
+- [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - 闪电般的远程支持和远程访问，可立即连接并更快地解决问题。 `⊘ Proprietary` `Unknown`
 
-- [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
+### 资金、预算和管理
 
-### Photo and Video Galleries
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Pancake](https://www.pancakeapp.com/) - 在线发票、项目管理、时间跟踪和提案软件。 `⊘ Proprietary` `PHP`
 
-- [Lomorage](https://lomorage.com/) - Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux. ([Source Code](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
-- [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
-- [Picaport](https://www.picapport.de/en/index.php) - A photo server with web gallery for your intranet, web space or home network that allows you to organize photos, videos, PDF's, and many other media types in a central location. ([Demo](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
-- [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
-- [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
 
+### 照片和视频画廊
 
-### Proxy
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Lomorage](https://lomorage.com/) - 通过简单的自托管软件替代 Google 照片。 支持的客户端：iOS、Android、Web、MAC/Windows。 后端可以在Raspberry pi、Armbian、MAC/Windows/Linux 上运行。 ([源代码](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
+- [PhotoStructure](https://photostructure.com/) - 您家人的所有照片和视频会自动组织到一个有趣而美丽的网站中。 通过 Docker、NodeJS 或本机桌面安装程序运行。 `⊘ Proprietary` `Nodejs`
+- [Picaport](https://www.picapport.de/en/index.php) - 带有 Web 图库的照片服务器，适用于您的 Intranet、Web 空间或家庭网络，可让您组织照片、视频、PDF 等 位于中心位置的其他媒体类型。 ([演示](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
+- [Reservo](https://reservo.co) - 可扩展的图像托管脚本，支持 CDN、付费帐户升级、广告位和拖放上传。 ([演示](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
+- [Single File PHP Gallery](http://sye.dk/sfpg/) - 单个 PHP 文件中的 Web 画廊。 `⊘ Proprietary` `PHP`
 
-- [Cosmos](https://cosmos-cloud.io/) - Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager. ([Source Code](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
-- [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. ([Source Code](https://github.com/inlets/inlets-pro)) `⊘ Proprietary` `Go/Docker`
 
+### 代理
 
-### Resource Planning
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Cosmos](https://cosmos-cloud.io/) - Cosmos 是一个自托管平台，用于安全地运行服务器应用程序并具有内置隐私功能。 它充当应用程序的安全网关以及服务器管理器。 ([源代码](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
+- [inlets](https://inlets.dev/) - 通过 Kubernetes 集成、Docker 映像和 CLI 将本地端点公开到互联网。([源代码](https://github.com/inlets/inlets-pro)) `⊘ Proprietary` `Go/Docker`
 
-- [YetiForce](https://yetiforce.com/en/) - Opensource CRM ERP with sales, marketing, accounting, HR, Support, Logistics and GDPR support. ([Demo](https://gitstable.yetiforce.com/), [Source Code](https://github.com/YetiForceCompany/YetiForceCRM)) `⊘ Proprietary` `PHP`
 
+### 资源规划
 
-### Search Engines
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [YetiForce](https://yetiforce.com/en/) - 开源 CRM ERP，提供销售、营销、会计、人力资源、支持、物流和 GDPR 支持。 ([演示](https://gitstable.yetiforce.com/), [源代码](https://github.com/YetiForceCompany/YetiForceCRM)) `⊘ Proprietary` `PHP`
 
-- [ElasticSearch](https://www.elastic.co/elasticsearch/) - Distributed, RESTful search and analytics engine. ([Source Code](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
 
+### 搜索引擎
 
-### Self-hosting Solutions
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [ElasticSearch](https://www.elastic.co/elasticsearch/) - 分布式、RESTful 搜索和分析引擎。 ([源代码](https://github.com/elastic/elasticsearch)) `SSPL-1.0` `Java`
 
-- [Axigen](https://www.axigen.com/mail-server/free/) - Turnkey messaging solution for small & micro businesses, integration projects or test environments. `⊘ Proprietary` `Unknown`
-- [Cloudron](https://www.cloudron.io/) - Open-core software allowing you to effortlessly self-host web apps on your server. ([Demo](https://my.demo.cloudron.io/), [Source Code](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
-- [Easypanel](https://easypanel.io) - Modern server control panel powered by Docker. `⊘ Proprietary` `Docker`
-- [hMailServer](https://www.hmailserver.com) - Open-source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `⊘ Proprietary` `C++`
-- [Poste.io](https://poste.io) - Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
-- [Umbrel](https://umbrel.com/) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian. ([Source Code](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
-- [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Unknown`
 
+### 自托管解决方案
 
-### Software Development - Project Management
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Axigen](https://www.axigen.com/mail-server/free/) - 适用于小型和微型企业、集成项目或测试环境的交钥匙消息解决方案。 `⊘ Proprietary` `Unknown`
+- [Cloudron](https://www.cloudron.io/) - 开放核心软件，让您可以轻松地在服务器上自行托管 Web 应用程序。 ([演示](https://my.demo.cloudron.io/), [源代码](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
+- [Easypanel](https://easypanel.io) - 由 Docker 提供支持的现代服务器控制面板。 `⊘ Proprietary` `Docker`
+- [hMailServer](https://www.hmailserver.com) - 适用于 Microsoft Windows 的开源电子邮件服务器。 ([源代码](https://github.com/hmailserver/hmailserver)) `⊘ Proprietary` `C++`
+- [Poste.io](https://poste.io) - 适用于您的电子邮件服务器的全功能解决方案。 最后的反垃圾邮件方法的本机实现，包括网络邮件和简单的管理。 提供免费套餐。 ([演示](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
+- [Umbrel](https://umbrel.com/) - 一个漂亮的自托管个人服务器操作系统。 在 Raspberry Pi 4 或 Ubuntu/Debian 上安装。 ([源代码](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
+- [Unraid](https://www.unraid.net) `⚠` - 基于 Linux 的操作系统，设计用于在家庭媒体服务器设置上运行。 `⊘ Proprietary` `Unknown`
 
-- [92five](https://92fiveapp.com/) - Self-hosted project management application. `⊘ Proprietary` `PHP`
-- [Active Collab](https://activecollab.com/) - Project management. `⊘ Proprietary` `PHP`
-- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
-- [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
-- [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
-- [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
-- [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
-- [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
-- [Solo](https://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
 
+### 软件开发 - 项目管理
 
-### Software Development - Testing
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [92five](https://92fiveapp.com/) - 自托管项目管理应用程序。 `⊘ Proprietary` `PHP`
+- [Active Collab](https://activecollab.com/) - 项目管理。 `⊘ Proprietary` `PHP`
+- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - 类似于 GitLab 的企业级 Git 解决方案。`⊘ Proprietary` `Java`
+- [Buddy Enterprise](https://buddy.works/) - Git 和持续集成/交付平台。 `⊘ Proprietary` `Nodejs/Java`
+- [Crucible](https://www.atlassian.com/software/crucible) - 同行代码审查应用程序。 `⊘ Proprietary` `Java`
+- [Duet](https://duetapp.com/) - 通过集成的客户端门户进行发票和项目管理。 ([演示](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
+- [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - 具有时间跟踪功能的高级看板。 `⊘ Proprietary` `Ruby`
+- [Kantree](https://kantree.io) - 工作管理和协作。. `⊘ Proprietary` `Python`
+- [Solo](https://www.getsoloapp.com/) - 为自由职业者创建的免费项目管理应用程序。 创建联系人、管理任务、上传文件、跟踪项目进度并记笔记。 ([演示](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
 
-- [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration server. `⊘ Proprietary` `Java`
-- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale) - Scalable browser automation grid on your cloud (AWS, GCP and Azure) supporting Selenium and Playwright. `⊘ Proprietary` `Docker`
-- [Grai](https://www.grai.io) - Automated integration testing. Uses data lineage to statically analyze the impact of a data change across your entire data stack. ([Source Code](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Docker`
-- [Moon](https://aerokube.com/moon/) - Efficient Selenium protocol implementation running everything in Kubernetes or Openshift. `⊘ Proprietary` `Go`
-- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - Powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
+### 软件开发 - 测试
 
-### Ticketing
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Bamboo](https://www.atlassian.com/software/bamboo) - 持续集成服务器。 `⊘ Proprietary` `Java`
+- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale) - 云（AWS、GCP 和 Azure）上的可扩展浏览器自动化网格，支持 Selenium 和 Playwright。 `⊘ Proprietary` `Docker`
+- [Grai](https://www.grai.io) - 自动化集成测试。 使用数据沿袭静态分析数据更改对整个数据堆栈的影响。 ([源代码](https://www.github.com/grai-io/grai-core)) `Elastic-2.0` `Docker`
+- [Moon](https://aerokube.com/moon/) - 高效的 Selenium 协议实现，在 Kubernetes 或 Openshift 中运行所有内容。 `⊘ Proprietary` `Go`
+- [Sentry Self-Hosted](https://github.com/getsentry/self-hosted) - 强大的错误跟踪平台，具有广泛的语言支持和强大的 API。 ([源代码](https://github.com/getsentry/sentry)) `BUSL-1.1` `Python/Django`
 
-- [Deskpro](https://www.deskpro.com/) - On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
-- [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
-- [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
-- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
-- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
+### 票务
 
-### Time Tracking
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+- [Deskpro](https://www.deskpro.com/) - 本地帮助台软件，包括电子邮件、聊天、语音和帮助中心发布。 完整可见的源代码和API。 `⊘ Proprietary` `Unknown`
+- [Full Help](https://www.fullhelp.com/en/) - 简单、易于使用的帮助台和知识库软件。 自定义品牌、自定义主题、Restful API、沟通渠道、多公司支持、多语言支持等等！ 每月至少发布 1 个新版本。 `⊘ Proprietary` `PHP`
+- [JIRA](https://www.atlassian.com/software/jira) - 专业且可扩展的问题跟踪器。`⊘ Proprietary` `Java`
+- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - 自托管帮助台软件 - 简单但功能强大。 ([演示](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
+- [SupportPal](https://www.supportpal.com/) - 强大的帮助台软件 - 简单、快速且直观。 ([演示](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
 
-- [Anuko](https://github.com/anuko/timetracker) - Simple time and project tracking on a self-hosted basis. `SSPL-1.0` `PHP`
-- [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
+
+### 时间追踪
+
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
+
+- [Anuko](https://github.com/anuko/timetracker) - 在自托管的基础上进行简单的时间和项目跟踪。 `SSPL-1.0` `PHP`
+- [Virtual TimeClock](https://www.redcort.com/timeclock) - 功能强大、易于使用的时间跟踪软件。 ([演示](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
 --------------------
 
-## List of Licenses
+## 许可证列表
 
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese---非自由软件)**
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)

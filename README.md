@@ -1,5 +1,7 @@
 # Awesome-Selfhosted-Chinese
 
+此文档是 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 的中文翻译版本。
+
 
 自托管是在您自己的服务器上部署和管理应用程序的做法，而不是使用 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)。  
 
@@ -16,98 +18,98 @@
 
 - [软件](#软件)
   - [数据分析](#数据分析)
-  - [归档和数字保存](#归档和数字保存)
+  - [归档和数字保存 (DP)](#归档和数字保存-dp)
   - [自动化](#自动化)
   - [备份](#备份)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Booking and Scheduling](#booking-and-scheduling)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendar & Contacts](#calendar--contacts)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Database Management](#database-management)
+  - [博客平台](#博客平台)
+  - [预约和安排](#预约和安排)
+  - [书签和链接共享](#书签和链接共享)
+  - [日历和联系人](#日历和联系人)
+  - [通讯 - 定制通讯系统](#通讯---定制通讯系统)
+  - [通讯 - 电子邮件 - 完整解决方案](#通讯---电子邮件---完整解决方案)
+  - [通讯 - 电子邮件 - 邮件递送代理](#通讯---电子邮件---邮件递送代理)
+  - [通讯 - 电子邮件 - 邮件传输代理](#通讯---电子邮件---邮件传输代理)
+  - [通讯 - 电子邮件 - 邮件列表和时事通讯](#通讯---电子邮件---邮件列表和时事通讯)
+  - [通讯 - 电子邮件 - 网络邮件客户端](#通讯---电子邮件---网络邮件客户端)
+  - [通讯 - IRC](#通讯---irc)
+  - [通讯 - SIP](#通讯---sip)
+  - [通讯 - 社交网络和论坛](#通讯---社交网络和论坛)
+  - [通讯 - 视频会议](#通讯---视频会议)
+  - [通信 - XMPP - 服务器](#通信---xmpp---服务器)
+  - [通信 - XMPP - Web 客户端](#通信---xmpp---web-客户端)
+  - [社区支持农业 (CSA)](#社区支持农业-csa)
+  - [会议管理](#会议管理)
+  - [内容管理系统 (CMS)](#内容管理系统-cms)
+  - [数据库管理](#数据库管理)
   - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
-  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
-  - [Feed Readers](#feed-readers)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
-  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
-  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
-  - [Games](#games)
-  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Genealogy](#genealogy)
-  - [Groupware](#groupware)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Inventory Management](#inventory-management)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Learning and Courses](#learning-and-courses)
-  - [Manufacturing](#manufacturing)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Streaming](#media-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring](#monitoring)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Recipe Management](#recipe-management)
-  - [Remote Access](#remote-access)
-  - [Resource Planning](#resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development](#software-development)
-  - [Software Development - API Management](#software-development---api-management)
-  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
-  - [Software Development - IDE & Tools](#software-development---ide--tools)
-  - [Software Development - Localization](#software-development---localization)
-  - [Software Development - Low Code](#software-development---low-code)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Static Site Generators](#static-site-generators)
-  - [Status / Uptime pages](#status--uptime-pages)
-  - [Task Management & To-do Lists](#task-management--to-do-lists)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-  - [URL Shorteners](#url-shorteners)
-  - [Video Surveillance](#video-surveillance)
+  - [文档管理](#文档管理)
+  - [文档管理 - 电子书](#文档管理---电子书)
+  - [文档管理 - 机构存储库和数字图书馆软件](#文档管理---机构存储库和数字图书馆软件)
+  - [文档管理 - 综合图书馆系统 (ILS)](#文档管理---综合图书馆系统-ils)
+  - [电子商务](#电子商务)
+  - [联合身份和认证](#联合身份和认证)
+  - [订阅阅读器](#订阅阅读器)
+  - [文件传输 - 同步](#文件传输---同步)
+  - [文件传输 - 分布式文件系统](#文件传输---分布式文件系统)
+  - [文件传输 - 对象存储和文件服务器](#文件传输---对象存储和文件服务器)
+  - [文件传输 - 点对点文件共享](#文件传输---点对点文件共享)
+  - [文件传输 - 单击和拖放上传](#文件传输---单击和拖放上传)
+  - [文件传输 - 基于 Web 的文件管理器](#文件传输---基于-web-的文件管理器)
+  - [游戏](#游戏)
+  - [游戏 - 管理实用程序和控制面板](#游戏---管理实用程序和控制面板)
+  - [家谱](#家谱)
+  - [群件](#群件)
+  - [人力资源管理（HRM）](#人力资源管理-hrm)
+  - [物联网 (IoT)](#物联网-iot)
+  - [库存管理](#库存管理)
+  - [知识管理工具](#知识管理工具)
+  - [学习和课程](#学习和课程)
+  - [制造业](#制造业)
+  - [地图和全球定位系统 (GPS)](#地图和全球定位系统-gps)
+  - [流媒体](#流媒体)
+  - [流媒体 - 音频流](#流媒体---音频流)
+  - [流媒体 - 多媒体流](#流媒体---多媒体流)
+  - [流媒体 - 视频流](#流媒体---视频流)
+  - [杂项](#杂项)
+  - [资金、预算和管理](#资金预算和管理)
+  - [监控](#监控)
+  - [笔记和编辑](#笔记和编辑)
+  - [办公套件](#办公套件)
+  - [密码管理器](#密码管理器)
+  - [粘贴箱](#粘贴箱)
+  - [个人仪表盘](#个人仪表盘)
+  - [照片和视频画廊](#照片和视频画廊)
+  - [民意调查和活动](#民意调查和活动)
+  - [代理](#代理)
+  - [菜谱管理](#菜谱管理)
+  - [远程访问](#远程访问)
+  - [资源规划](#资源规划)
+  - [搜索引擎](#搜索引擎)
+  - [自托管解决方案](#自托管解决方案)
+  - [软件开发](#软件开发)
+  - [软件开发 - API 管理](#软件开发---api-管理)
+  - [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)
+  - [软件开发 - FaaS 和无服务器](#软件开发---faas-和无服务器)
+  - [软件开发 - IDE 和工具](#软件开发---ide-和工具)
+  - [软件开发 - 本地化](#软件开发---本地化)
+  - [软件开发 - 低代码](#软件开发---低代码)
+  - [软件开发 - 项目管理](#软件开发---项目管理)
+  - [软件开发 - 测试](#软件开发---测试)
+  - [静态站点生成器](#静态站点生成器)
+  - [状态/正常运行时间页面](#状态正常运行时间页面)
+  - [任务管理和待办事项列表](#任务管理和待办事项列表)
+  - [票务](#票务)
+  - [时间跟踪](#时间跟踪)
+  - [网址缩短器](#网址缩短器)
+  - [视频监控](#视频监控)
   - [VPN](#vpn)
-  - [Web Servers](#web-servers)
-  - [Wikis](#wikis)
-- [List of Licenses](#list-of-licenses)
-- [Anti-features](#anti-features)
-- [External Links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
+  - [网络服务器](#网络服务器)
+  - [Wiki](#wiki)
+- [许可证清单](#许可证清单)
+- [反特征](#反特征)
+- [外部链接](#外部链接)
+- [贡献](#贡献)
+- [授权](#授权)
 
 --------------------
 
@@ -115,11 +117,11 @@
 
 ### 数据分析
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [数据分析(粤语)](https://zh-yue.wikipedia.org/wiki/%E9%81%8B%E7%AE%97%E5%88%86%E6%9E%90) 是对数据或统计数据的系统计算分析。 它用于发现、解释和交流数据中有意义的模式。
 
-_相关: [数据管理](#数据管理), [个人仪表盘](#个人仪表盘)_
+_相关: [数据库管理](#数据库管理), [个人仪表盘](#个人仪表盘)_
 
 - [Aptabase](https://aptabase.com/) - 适用于移动和桌面应用程序的开源、隐私第一和简单分析。 ([源代码](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 - [AWStats](http://www.awstats.org/) - 从 Web、流媒体、FTP 或邮件服务器日志文件生成统计数据。 ([源代码](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
@@ -147,13 +149,13 @@ _相关: [数据管理](#数据管理), [个人仪表盘](#个人仪表盘)_
 - [Umami](https://umami.is/) - 简单、快速、注重隐私的 Google Analytics 替代方案。 ([演示](https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is), [源代码](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
 
 
-### 归档和数字保存
+### 归档和数字保存 (DP)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 数字 [归档](https://zh.wikipedia.org/wiki/%E6%A1%A3%E6%A1%88%E5%AD%A6) 和 [保存](https://en.wikipedia.org/wiki/Digital_preservation) 软件。
 
-_相关: [内容管理系统 (CMS)](#内容管理系统)_
+_相关: [内容管理系统 (CMS)](#内容管理系统-cms)_
 
 - [Access to Memory (AtoM)](https://www.accesstomemory.org/) - 基于网络的开源应用程序，用于在多语言、多存储库环境中进行基于标准的档案描述和访问。 ([演示](https://demo.accesstomemory.org/), [源代码](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 - [ArchiveBox](https://archivebox.io/) - 自托管_wayback machine_，可根据您的书签、浏览历史记录、RSS 提要或其他来源创建网站的 HTML 和屏幕截图存档。 ([源代码](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
@@ -171,11 +173,11 @@ _相关: [内容管理系统 (CMS)](#内容管理系统)_
 
 ### 自动化
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
-_相关: [物联网 (IoT)](#internet-of-things-iot), [软件开发 - 持续集成和部署](#software-development---continuous-integration--deployment)_
+_相关: [物联网 (IoT)](#物联网-iot), [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)_
 
 - [Accelerated Text](https://github.com/accelerated-text/accelerated-text) - 自动生成措辞和结构各异的数据的多种自然语言描述。 `Apache-2.0` `Java`
 - [Activepieces](https://www.activepieces.com) - 无代码业务自动化工具，例如 Zapier 或 Tray。 例如，您可以为每张新的 Trello 卡发送 Slack 通知。 ([源代码](https://github.com/activepieces/activepieces)) `MIT` `Docker`
@@ -219,9 +221,9 @@ _相关: [物联网 (IoT)](#internet-of-things-iot), [软件开发 - 持续集�
 - [µTask](https://github.com/ovh/utask) - 对 yaml 中声明的业务流程进行建模和执行的自动化引擎。 `BSD-3-Clause` `Go/Docker`
 
 
-### Backup
+### 备份
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [备份](https://zh.wikipedia.org/wiki/%E5%82%99%E4%BB%BD) 软件.
 
@@ -231,11 +233,11 @@ _相关: [物联网 (IoT)](#internet-of-things-iot), [软件开发 - 持续集�
 
 ### 博客平台
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
-A [blog](https://en.wikipedia.org/wiki/Blog) 博客是一个讨论或信息网站，由离散的日记式文本条目（帖子）组成.
+[博客](https://en.wikipedia.org/wiki/Blog) 是一个讨论或信息网站，由离散的日记式文本条目（帖子）组成.
 
-_相关: [静态站点生成器](#static-site-generators), [内容管理系统 (CMS)](#content-management-systems-cms)_
+_相关: [静态站点生成器](#静态站点生成器), [内容管理系统 (CMS)](#内容管理系统-cms)_
 
 _也可以看看: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
@@ -256,11 +258,11 @@ _也可以看看: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 ### 预约和安排
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 活动安排、预订和预约管理软件。
 
-_相关: [民意调查和活动](#polls-and-events)_
+_相关: [民意调查和活动](#民意调查和活动)_
 
 - [Alf.io](https://alf.io/) - 开源门票预订系统。 ([演示](https://demo.alf.io/authentication), [源代码](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
 - [Cal.com](https://cal.com/) - 开源在线预约安排系统。 ([演示](https://app.cal.com/bailey), [源代码](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
@@ -272,7 +274,7 @@ _相关: [民意调查和活动](#polls-and-events)_
 
 ### 书签和链接共享
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 该软件允许用户添加、注释、编辑和共享网络文档的 [书签](https://zh.wikipedia.org/wiki/%E6%9B%B8%E7%B1%A4_(%E7%80%8F%E8%A6%BD%E5%99%A8)) 。
 
@@ -296,11 +298,11 @@ _相关: [民意调查和活动](#polls-and-events)_
 
 ### 日历和联系人
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 基于 [电子日历(英文)](https://en.wikipedia.org/wiki/Calendaring_software), [地址簿](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9D%80%E7%B0%BF) 和 [联系人管理(英文)](https://en.wikipedia.org/wiki/Contact_manager) 的 [CalDAV(英文)](https://en.wikipedia.org/wiki/CalDAV) 和 [CardDAV](https://zh.wikipedia.org/wiki/CardDAV) 协议服务器
 
-_相关: [Groupware](#groupware)_
+_相关: [群件](#群件)_
 
 _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations)_
 
@@ -317,7 +319,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 定制通讯系统
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [通讯软件(英文)](https://en.wikipedia.org/wiki/Communication_software) 用于提供对系统的远程访问，并使用不同计算机或用户自己的自定义协议以文本、音频和/或视频格式交换文件和消息。
 
@@ -373,7 +375,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 电子邮件 - 完整解决方案
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 简单部署[电子邮件](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6)服务器，例如 对于缺乏经验或不耐烦的管理员。
 
@@ -398,7 +400,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 电子邮件 - 邮件递送代理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [消息传递代理(英文)](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://zh.wikipedia.org/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91%E4%BF%A1%E6%81%AF%E8%AE%BF%E9%97%AE%E5%8D%8F%E8%AE%AE)/[POP3](https://zh.wikipedia.org/wiki/%E9%83%B5%E5%B1%80%E5%8D%94%E5%AE%9A) 服务软件.
 
@@ -411,7 +413,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 电子邮件 - 邮件传输代理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [消息传输代理](https://zh.wikipedia.org/wiki/%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E4%BB%A3%E7%90%86) (MTAs) - [SMTP](https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8D%95%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE) 服务.
 
@@ -433,7 +435,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 电子邮件 - 邮件列表和时事通讯
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [邮件列表](https://zh.wikipedia.org/wiki/%E9%82%AE%E4%BB%B6%E5%88%97%E8%A1%A8) 服务器和群发邮件软件 - 一封邮件发送给多个收件人。
 
@@ -453,7 +455,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 电子邮件 - 网络邮件客户端
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [网页邮件](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E9%83%B5%E4%BB%B6) 客户端。
 
@@ -467,7 +469,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - IRC
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [IRC](https://zh.wikipedia.org/wiki/IRC) 通讯软件。
 
@@ -487,7 +489,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - SIP
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [SIP](https://zh.wikipedia.org/wiki/%E5%B0%8D%E8%A9%B1%E5%95%9F%E5%8B%95%E5%8D%94%E5%AE%9A)/[IPBX](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E7%94%B5%E8%AF%9D%E4%BA%A4%E6%8D%A2%E6%9C%BA) 电话软件。
 
@@ -509,7 +511,7 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 社交网络和论坛
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [社交网络](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99) 和 [论坛](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E8%AE%BA%E5%9D%9B) 软件.
 
@@ -565,11 +567,11 @@ _也可以看看: [Comparison of CalDAV and CardDAV implementations - Wikipedia]
 
 ### 通讯 - 视频会议
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [视频/网络会议(英文)](https://en.wikipedia.org/wiki/Web_conferencing) 工具和软件。
 
-_相关: [会议管理](#conference-management)_
+_相关: [会议管理](#会议管理)_
 
 - [BigBlueButton](https://bigbluebutton.org/) - 支持音频、视频、幻灯片（带白板控件）、聊天和屏幕的实时共享。教师可以通过投票、表情符号和分组讨论室与远程学生互动。 ([演示](https://demo.bigbluebutton.org/gl), [源代码](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 - [Galene](https://galene.org/) - Galène（或 Galene）是一种视频会议服务器（“SFU”），易于部署且需要适度的服务器资源。 ([源代码](https://github.com/jech/galene)) `MIT` `Go`
@@ -584,7 +586,7 @@ _相关: [会议管理](#conference-management)_
 
 ### 通信 - XMPP - 服务器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [可扩展消息和表示协议(XMPP)](https://zh.wikipedia.org/wiki/XMPP) 服务。
 
@@ -599,7 +601,7 @@ _相关: [会议管理](#conference-management)_
 
 ### 通信 - XMPP - Web 客户端
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [可扩展消息和表示协议(XMPP)](https://zh.wikipedia.org/wiki/XMPP) Web 客户端。
 
@@ -611,11 +613,11 @@ _相关: [会议管理](#conference-management)_
 
 ### 社区支持农业 (CSA)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 社区支持的农业和粮食合作社的管理和行政工具。
 
-_相关: [电子商务](#e-commerce)_
+_相关: [电子商务](#电子商务)_
 
 - [ACP Admin](https://acp-admin.ch/) - CSA 管理。管理会员、订阅、交付、投递地点、会员参与、发票和电子邮件（法语文档）。 ([源代码](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 - [FoodCoopShop](https://www.foodcoopshop.com/) - 用户友好的食品合作社开源软件。 ([源代码](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
@@ -629,7 +631,7 @@ _相关: [电子商务](#e-commerce)_
 
 ### 会议管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于提交 [摘要(英文)](https://en.wikipedia.org/wiki/Abstract_management) 和准备/管理学术会议的软件。
 
@@ -642,11 +644,11 @@ _相关: [电子商务](#e-commerce)_
 
 ### 内容管理系统 (CMS)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [内容管理系统](https://zh.wikipedia.org/wiki/%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) 提供了一种实用的方法来设置具有许多功能的网站，使用易于添加和自定义的第三方插件、主题和功能。
 
-_相关: [博客平台](#blogging-platforms), [静态站点生成器](#static-site-generators), [照片和视频画廊](#photo-and-video-galleries)_
+_相关: [博客平台](#博客平台), [静态站点生成器](#静态站点生成器), [照片和视频画廊](#照片和视频画廊)_
 
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - 开源企业内容管理软件，可处理任何类型的内容，允许用户轻松共享和协作内容。 ([源代码](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 - [Apostrophe](https://apostrophecms.com/) - CMS，专注于可扩展的上下文编辑工具。 ([演示](https://apostrophecms.com/demo), [源代码](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
@@ -692,11 +694,11 @@ _相关: [博客平台](#blogging-platforms), [静态站点生成器](#static-si
 
 ### 数据库管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于 [数据库](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93) 管理的 Web 界面。包括数据库分析和可视化工具。
 
-_相关: [数据分析](#analytics), [自动化](#automation)_
+_相关: [数据分析](#数据分析), [自动化](#自动化)_
 
 _也可以看看: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
@@ -717,7 +719,7 @@ _也可以看看: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
 ### DNS
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 具有广告拦截功能的 [DNS](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F) 服务器和管理工具，主要针对家庭或小型网络。
 
@@ -732,7 +734,7 @@ _也可以看看: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-fo
 
 ### 文档管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [文档管理系统(英文)](https://en.wikipedia.org/wiki/Document_management_system) (DMS) 是用于接收、跟踪、管理和存储文档并减少纸张的系统。
 
@@ -752,7 +754,7 @@ _也可以看看: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-fo
 
 ### 文档管理 - 电子书
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [电子书](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E6%9B%B8) 图书馆管理软件。
 
@@ -768,7 +770,7 @@ _也可以看看: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-fo
 
 ### 文档管理 - 机构存储库和数字图书馆软件
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [机构存储库(英文)](https://en.wikipedia.org/wiki/Institutional_repository) 和 [数字图书馆](https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E5%9C%96%E6%9B%B8%E9%A4%A8) 管理软件。
 
@@ -782,11 +784,11 @@ _也可以看看: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-fo
 
 ### 文档管理 - 综合图书馆系统 (ILS)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [综合图书馆系统](https://zh.wikipedia.org/wiki/%E5%9C%96%E6%9B%B8%E9%A4%A8%E8%87%AA%E5%8B%95%E5%8C%96) 是图书馆的企业资源规划系统，用于跟踪拥有的物品、下达的订单、支付的账单以及借阅的读者。
 
-_相关: [内容管理系统 (CMS)](#content-management-systems-cms), [归档和数字保存 (DP)](#archiving-and-digital-preservation-dp)_
+_相关: [内容管理系统 (CMS)](#内容管理系统-cms), [归档和数字保存 (DP)](#归档和数字保存-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - 高度可扩展的图书馆软件，可帮助图书馆用户查找图书馆资料，并帮助图书馆管理、编目和分发这些资料。 ([源代码](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PLpgSQL`
 - [Koha](https://koha-community.org/) - 企业级 ILS，具有用于采购、流通、编目、标签打印、无法访问互联网时的离线流通等模块。 ([演示](https://koha-community.org/demo/), [源代码](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
@@ -795,7 +797,7 @@ _相关: [内容管理系统 (CMS)](#content-management-systems-cms), [归档和
 
 ### 电子商务
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [电子商务](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1) 软件。
 
@@ -827,7 +829,7 @@ _相关: [社区支持农业 (CSA)](#community-supported-agriculture-csa)_
 
 ### 联合身份和认证
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [联合身份(英文)](https://en.wikipedia.org/wiki/Federated_identity) 和 [身份验证(英文)](https://en.wikipedia.org/wiki/Electronic_authentication) software.
 
@@ -837,7 +839,7 @@ _相关: [社区支持农业 (CSA)](#community-supported-agriculture-csa)_
 
 ### 订阅阅读器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [新闻聚合器](https://zh.wikipedia.org/wiki/%E8%81%9A%E5%90%88%E5%99%A8), 也称为提要聚合器、提要阅读器、新闻阅读器、 [RSS](https://zh.wikipedia.org/wiki/RSS) 也称为提要聚合器、提要阅读器、新闻阅读器、RSS阅读器，是一种将报纸/博客/视频博客/播客等 Web 内容聚合在一个位置以便于查看的应用程序。
 
@@ -866,13 +868,13 @@ _相关: [社区支持农业 (CSA)](#community-supported-agriculture-csa)_
 - [Yarr](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) 是一个基于 Web 的提要聚合器，它既可以用作桌面应用程序，也可以用作个人自托管服务器。 `MIT` `Go`
 
 
-### 文件传输和同步
+### 文件传输 - 同步
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [文件传输](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E5%82%B3%E8%BC%B8), [共享](https://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB) 和 [同步](https://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E5%90%8C%E6%AD%A5) 软件。
 
-_相关: [Groupware](#groupware)_
+_相关: [群件](#群件)_
 
 - [Git Annex](https://git-annex.branchable.com/) - 计算机、服务器、外部驱动器之间的文件同步。 ([源代码](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
 - [Kinto](https://kinto.readthedocs.org) - Kinto 是一种简约的 JSON 存储服务，具有同步和共享功能。 ([源代码](https://github.com/Kinto)) `Apache-2.0` `Python`
@@ -889,7 +891,7 @@ _相关: [Groupware](#groupware)_
 
 ### 文件传输 - 分布式文件系统
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 网络分布式文件系统。
 
@@ -899,7 +901,7 @@ _相关: [Groupware](#groupware)_
 
 ### 文件传输 - 对象存储和文件服务器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [对象存储](https://zh.wikipedia.org/wiki/%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8) 是一种将数据作为对象进行管理的计算机数据存储，与其他存储架构不同，例如将数据作为文件层次结构进行管理的文件系统，以及将数据作为扇区和磁道内的块进行管理的块存储。
 
@@ -912,9 +914,7 @@ _相关: [Groupware](#groupware)_
 
 ### 文件传输 - 点对点文件共享
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
-
-[Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) is the distribution and [sharing](https://en.wikipedia.org/wiki/File_sharing) of digital media using [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) networking technology.
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [点对点文件共享](https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB)是使用[点对点](https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF)（P2P）网络技术来分发和[共享](https://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB)数字媒体。
 
@@ -929,7 +929,7 @@ _相关: [Groupware](#groupware)_
 
 ### 文件传输 - 单击和拖放上传
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 简化的文件服务器，用于共享一次性/短期/临时文件，提供单击或 [拖放](https://zh.wikipedia.org/wiki/%E6%8B%96%E6%94%BE) 上传功能。
 
@@ -962,11 +962,11 @@ _相关: [Groupware](#groupware)_
 
 ### 文件传输 - 基于 Web 的文件管理器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 基于网络的 [文件管理器](https://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E5%99%A8)。
 
-_相关: [Groupware](#groupware)_
+_相关: [群件](#群件)_
 
 - [Apaxy](https://oupala.github.io/apaxy/) - 主题旨在增强浏览 Web 目录的体验，使用 mod_autoindex Apache 模块和一些 CSS 来覆盖目录列表的默认样式。 ([源代码](https://github.com/oupala/apaxy)) `GPL-3.0` `Javascript`
 - [copyparty](https://github.com/9001/copyparty) - 便携式文件服务器，在单个文件中具有加速可恢复上传、重复数据删除、WebDAV、FTP、zeroconf、媒体索引器、视频缩略图、音频转码和只写文件夹，没有强制依赖性。 ([演示](https://a.ocv.me/pub/demo/)) `MIT` `Python`
@@ -984,11 +984,11 @@ _相关: [Groupware](#groupware)_
 
 ### 游戏
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 多人游戏服务器和 [网页游戏](https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E6%B8%B8%E6%88%8F).
 
-_相关: [游戏 - 管理实用程序和控制面板](#games---administrative-utilities--control-panels)_
+_相关: [游戏 - 管理实用程序和控制面板](#游戏---管理实用程序和控制面板)_
 
 - [0 A.D.](https://play0ad.com/) - 一款免费、开源的古代战争游戏。 ([源代码](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
 - [A Dark Room](https://github.com/doublespeakgames/adarkroom) - 适用于您的浏览器的极简文本冒险游戏。 ([演示](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `Javascript`
@@ -1014,7 +1014,7 @@ _相关: [游戏 - 管理实用程序和控制面板](#games---administrative-ut
 
 ### 游戏 - 管理实用程序和控制面板
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于管理游戏服务器的实用程序。
 
@@ -1036,7 +1036,7 @@ _相关: [游戏](#游戏)_
 
 ### 家谱
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [家谱软件(英文)](https://en.wikipedia.org/wiki/Genealogy_software) 用于记录、组织和发布家谱数据。
 
@@ -1048,7 +1048,7 @@ _相关: [游戏](#游戏)_
 
 ### 群件
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 协作软件或 [群件](https://zh.wikipedia.org/wiki/%E7%BE%A4%E4%BB%B6) 旨在帮助人们完成共同任务以实现他们的目标。组件通常将文件共享、日历/事件管理、地址簿等多种服务重新组合到一个集成的应用程序中。
 
@@ -1068,9 +1068,9 @@ _相关: [游戏](#游戏)_
 - [Zimbra Collaboration](https://www.zimbra.com/) - 电子邮件、日历、带有 Web 界面和大量集成的协作服务器。 ([源代码](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
 
 
-### 人力资源管理（HRM）
+### 人力资源管理 (HRM)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [人力资源管理系统](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) 结合了多个系统和流程，以确保 [人力资源](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90)、业务流程和数据的轻松管理。
 
@@ -1081,7 +1081,7 @@ _相关: [游戏](#游戏)_
 
 ### 物联网 (IoT)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [物联网](https://zh.wikipedia.org/wiki/%E7%89%A9%E8%81%94%E7%BD%91) 描述了具有传感器、处理能力、软件和其他通过互联网与其他设备连接和交换数据的技术的物理对象。
 
@@ -1103,7 +1103,7 @@ _相关: [游戏](#游戏)_
 
 ### 库存管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [库存管理软件(英文)](https://en.wikipedia.org/wiki/Inventory_management_software).
 
@@ -1119,7 +1119,7 @@ _也可以看看: [awesome-sysadmin/IT Asset Management](https://github.com/awes
 
 ### 知识管理工具
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [知识管理](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86) 是与创造、共享、使用和管理知识和信息相关的方法的集合。
 
@@ -1132,7 +1132,7 @@ _相关: [笔记和编辑](#note-taking--editors), [Wiki](#wikis), [数据库管
 
 ### 学习和课程
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 帮助教育和学习的工具和软件。
 
@@ -1154,7 +1154,7 @@ _相关: [笔记和编辑](#note-taking--editors), [Wiki](#wikis), [数据库管
 
 ### 制造业
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于管理 [3D 打印机](https://zh.wikipedia.org/wiki/3D%E6%89%93%E5%8D%B0), [数控机床(英文)](https://en.wikipedia.org/wiki/Numerical_control) 和其他物理制造工具的软件。
 
@@ -1167,7 +1167,7 @@ _相关: [笔记和编辑](#note-taking--editors), [Wiki](#wikis), [数据库管
 
 ### 地图和全球定位系统 (GPS)
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [地图](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9B%BE), [制图](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9B%BE%E5%AD%A6), [GIS](https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F) 和 [GPS](https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F) 软件。
 
@@ -1190,7 +1190,7 @@ _也可以看看: [awesome-openstreetmap](https://github.com/osmlab/awesome-open
 
 ### 流媒体
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [流媒体](https://zh.wikipedia.org/wiki/%E6%B5%81%E5%AA%92%E4%BD%93) 是从源以连续方式传送和消费的多媒体，在网络元件中很少或没有中间存储。
 
@@ -1202,7 +1202,7 @@ _也可以看看: [List of streaming media systems - Wikipedia](https://en.wikip
 
 ### 流媒体 - 音频流
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [音频(英文)](https://en.wikipedia.org/wiki/Audio) 流工具和软件。
 
@@ -1235,11 +1235,11 @@ _也可以看看: [List of streaming media systems - Wikipedia](https://en.wikip
 
 ### 流媒体 - 多媒体流
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [多媒体](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%AA%92%E4%BD%93) 流工具和软件
 
-_相关: [流媒体 - 视频流](#media-streaming---video-streaming), [流媒体 - 音频流](#media-streaming---audio-streaming)_
+_相关: [流媒体 - 视频流](#流媒体---视频流), [流媒体 - 音频流](#流媒体---音频流)_
 
 - [Dim](https://github.com/Dusk-Labs/dim) - Dim 是一个由黑暗势力推动的自托管媒体管理器。只需最少的设置，Dim 即可整理和美化您的媒体收藏，让您随时随地访问和播放它们。 `GPL-2.0` `Rust`
 - [Gerbera](https://gerbera.io/) - Gerbera 是一个 UPnP 媒体服务器。它允许您在整个家庭网络中流式传输数字媒体，并在各种 UPnP 兼容设备上收听/观看。 ([源代码](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
@@ -1261,11 +1261,11 @@ _相关: [流媒体 - 视频流](#media-streaming---video-streaming), [流媒体
 
 ### 流媒体 - 视频流
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [视频](https://zh.wikipedia.org/wiki/%E8%A7%86%E9%A2%91) 流工具和软件。
 
-_相关: [视频监控](#video-surveillance), [流媒体 - 多媒体流](#media-streaming---multimedia-streaming)_
+_相关: [视频监控](#视频监控), [流媒体 - 多媒体流](#流媒体---多媒体流)_
 
 - [cmyflix](https://github.com/farfalleflickan/cmyflix) `⚠` - 自托管、超轻量级 Netflix 替代品。 `AGPL-3.0` `C`
 - [CyTube](https://github.com/calzoneman/sync) - CyTube 是一个 Web 应用程序，为任意数量的频道提供媒体同步、聊天等功能。 ([演示](https://cytu.be)) `MIT` `Nodejs`
@@ -1285,9 +1285,9 @@ _相关: [视频监控](#video-surveillance), [流媒体 - 多媒体流](#media-
 - [VideoLAN Client (VLC)](https://www.videolan.org/) - 跨平台多媒体播放器客户端和服务器，支持大多数多媒体文件以及 DVD、音频 CD、VCD 和各种流媒体协议。 ([源代码](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
 
 
-### 各种各样的
+### 杂项
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 不适合其他部分的软件。
 
@@ -1364,11 +1364,11 @@ _相关: [视频监控](#video-surveillance), [流媒体 - 多媒体流](#media-
 
 ### 资金、预算和管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [资金管理](https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84%E5%AD%A6) 和预算软件。
 
-_相关: [库存管理](#inventory-management), [资源规划](#resource-planning)_
+_相关: [库存管理](#库存管理), [资源规划](#资源规划)_
 
 - [Actual](https://actualbudget.github.io/docs/) - Actual是基于零和预算的本地优先个人理财工具。它支持跨设备同步、自定义规则、手动交易导入（从 QIF、OFX 和 QFX 文件）以及与许多银行的可选自动同步。([源代码](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 - [Akaunting](https://akaunting.com/) - Actual是基于零和预算的本地优先个人理财工具。它支持跨设备同步、自定义规则、手动交易导入（从 QIF、OFX 和 QFX 文件）以及与许多银行的可选自动同步。 ([源代码](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
@@ -1401,7 +1401,7 @@ _相关: [库存管理](#inventory-management), [资源规划](#resource-plannin
 
 ### 监控
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于 [监控](https://zh.wikipedia.org/wiki/%E7%9B%A3%E6%B8%AC) 系统、网络、应用程序和网站的软件。
 
@@ -1411,11 +1411,11 @@ _相关: [库存管理](#inventory-management), [资源规划](#resource-plannin
 
 ### 笔记和编辑
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [笔记](https://zh.wikipedia.org/wiki/%E7%AC%94%E8%AE%B0) 编辑。
 
-_相关: [Wikis](#wikis)_
+_相关: [Wiki](#wiki)_
 
 - [Benotes](https://benotes.org/) - 一个开源的自托管笔记和书签网络应用程序。 ([源代码](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
 - [DailyTxT](https://github.com/PhiTux/DailyTxT) - 加密日记 Web 应用程序，用于保存您每天的个人记忆。包括搜索功能和加密文件上传。 `MIT` `Docker`
@@ -1446,7 +1446,7 @@ _相关: [Wikis](#wikis)_
 
 ### 办公套件
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [办公套件(英文)](https://en.wikipedia.org/wiki/List_of_office_suites) 是生产力软件的集合，通常至少包含文字处理器、电子表格和演示程序。
 
@@ -1462,7 +1462,7 @@ _相关: [Wikis](#wikis)_
 
 ### 密码管理器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [密码管理器](https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E7%AE%A1%E7%90%86%E5%93%A1) 允许用户存储、生成和管理本地应用程序和在线服务的密码。
 
@@ -1477,9 +1477,9 @@ _相关: [Wikis](#wikis)_
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 用 Rust 编写的轻量级 Bitwarden 服务器 API 实现. `GPL-3.0` `Rust/Docker`
 
 
-### Pastebins
+### 粘贴箱
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [pastebin(英文)](https://en.wikipedia.org/wiki/Pastebin) 是一种在线内容托管服务，用于共享和存储代码和文本
 
@@ -1509,13 +1509,13 @@ _相关: [Wikis](#wikis)_
 - [YABin](https://github.com/Yureien/YABin) - 一个包含丰富功能但保持简单的pastebin。支持可选的 E2E 加密、客户端 CLI 应用程序、语法突出显示、简约 UI、API、键盘快捷键等。它甚至可以在无服务器环境中运行。 ([演示](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
 
 
-### 个人仪表板
+### 个人仪表盘
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于访问信息和应用程序的仪表板。
 
-_相关: [监控](#monitoring), [书签和链接共享](#bookmarks-and-link-sharing)_
+_相关: [监控](#监控), [书签和链接共享](#书签和链接共享)_
 
 - [Dashy](https://github.com/lissy93/dashy) - 为您的家庭实验室提供功能丰富的主页，具有简单的 YAML 配置。 ([演示](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 - [envlinks](https://github.com/maxhollmann/envlinks) - 一个简约的链接仪表板，显示来自环境变量的链接。 ([演示](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
@@ -1526,7 +1526,7 @@ _相关: [监控](#monitoring), [书签和链接共享](#bookmarks-and-link-shar
 - [Homepage by gethomepage](https://github.com/gethomepage/homepage) - 高度可定制的主页（或起始页/应用程序仪表板），具有 Docker 和服务 API 集成。 `GPL-3.0` `Docker/Nodejs`
 - [Homepage by tomershvueli](https://github.com/tomershvueli/homepage) - 简单、独立、自托管的 PHP 页面，是您通往服务器和网络的窗口。 `MIT` `PHP`
 - [Homer](https://github.com/bastienwirtz/homer) -  一个非常简单的静态主页，用于公开您的服务器服务，并具有简单的 yaml 配置和连接检查。 `Apache-2.0` `Docker/K8S/Nodejs`
-- [Hubleys](https://github.com/knrdl/hubleys-dashboard) - 自托管个人仪表板，通过中央 yaml 配置为多个用户组织链接。 `MIT` `Docker`
+- [Hubleys](https://github.com/knrdl/hubleys-dashboard) - 自托管个人仪表盘，通过中央 yaml 配置为多个用户组织链接。 `MIT` `Docker`
 - [Jump](https://github.com/daledavies/jump) - 另一个为您的服务器设计的自托管起始页，设计简单、时尚、快速且安全。 `MIT` `Docker/PHP`
 - [LinkStack](https://linkstack.org/) - 在一个页面上轻松访问所有社交媒体平台，可通过直观、易于使用的用户/管理界面（Linktree 和 Manylink 的替代方案）进行自定义。 ([演示](https://linksta.cc/), [源代码](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 - [LittleLink](https://github.com/sethcottle/littlelink/) - 一种简单的生物链接方法，具有 100 多个品牌按钮（Linktree 的替代方案）。 ([演示](https://littlelink.io/), [源代码](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
@@ -1539,11 +1539,11 @@ _相关: [监控](#monitoring), [书签和链接共享](#bookmarks-and-link-shar
 
 ### 照片和视频画廊
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [图库](https://en.wikipedia.org/wiki/Gallery_Software) 是帮助用户发布或共享照片、图片、视频或其他数字媒体的软件。
 
-_相关: [静态站点生成器](#static-site-generators), [照片和视频库](#photo-and-video-galleries), [内容管理系统 (CMS)](#content-management-systems-cms)_
+_相关: [静态站点生成器](#静态站点生成器),[内容管理系统 (CMS)](#内容管理系统-cms)_
 
 - [Chevereto](https://chevereto.com/) - 终极图像共享软件。只需几分钟即可创建您自己的个人图像托管网站。 ([源代码](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 - [Coppermine](https://coppermine-gallery.net/) - 与各种公告板集成的多语言照片库。包括上传批准和受密码保护的相册。 ([演示](https://coppermine-gallery.net/demo/cpg15x/), [源代码](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
@@ -1568,11 +1568,11 @@ _相关: [静态站点生成器](#static-site-generators), [照片和视频库](
 
 ### 民意调查和活动
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于组织 [民意调查](https://zh.wikipedia.org/wiki/%E8%88%86%E8%AE%BA%E8%B0%83%E6%9F%A5) 和 [活动](https://zh.wikipedia.org/wiki/%E6%B4%BB%E5%8B%95) 的软件。
 
-_相关: [预订和安排](#booking-and-scheduling)_
+_相关: [预约和安排](#预约和安排)_
 
 - [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - 用于安排会议和一般投票的 Web 应用程序。 ([演示](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
 - [Christmas Community](https://github.com/Wingysam/Christmas-Community) - 为您的全家人创建一个简单的地方，用来寻找人们想要的礼物，并避免重复赠送礼物。 `AGPL-3.0` `Docker/Nodejs`
@@ -1592,11 +1592,11 @@ _相关: [预订和安排](#booking-and-scheduling)_
 
 ### 代理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [代理](https://zh.wikipedia.org/wiki/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8) 是一种服务器应用程序，充当请求资源的客户端和提供该资源的服务器之间的中介
 
-_相关: [网络服务器](#web-servers)_
+_相关: [网络服务器](#网络服务器)_
 
 - [imgproxy](https://imgproxy.net/) - 快速且安全的独立服务器，用于调整远程图像的大小和转换。当您需要动态调整多个图像的大小而无需准备大量缓存的调整大小图像或每次设计更改时都重新执行时，它非常有用。 ([源代码](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 - [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS 隧道解决方案，使您能够启动 sock5 代理侦听器。 ([源代码](https://github.com/yarrick/iodine)) `ISC` `C/deb`
@@ -1614,7 +1614,7 @@ _相关: [网络服务器](#web-servers)_
 
 ### 菜谱管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于管理 [菜谱](https://zh.wikipedia.org/wiki/%E9%A3%9F%E8%B0%B1) 的软件和工具。
 
@@ -1629,7 +1629,7 @@ _相关: [网络服务器](#web-servers)_
 
 ### 远程访问
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于远程管理计算机系统的 [远程桌面](https://zh.wikipedia.org/wiki/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BD%AF%E4%BB%B6) 和 [SSH服务器](https://zh.wikipedia.org/wiki/Secure_Shell) 以及 Web 界面。
 
@@ -1645,11 +1645,11 @@ _相关: [网络服务器](#web-servers)_
 
 
 ### 资源规划
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 帮助进行 [资源和供应规划(英文)](https://en.wikipedia.org/wiki/Resource_planning) 的软件和工具，包括 [企业资源和供应规划 (ERP)](https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%B5%84%E6%BA%90%E8%AE%A1%E5%88%92)。
 
-_相关: [资金、预算和管理](#money-budgeting--management), [库存管理](#inventory-management)_
+_相关: [资金、预算和管理](#资金预算和管理), [库存管理](#库存管理)_
 
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM 是一个现代软件包，用于管理您的公司或基金会活动（联系人、供应商、发票、订单、库存、议程、会计等）。 ([演示](https://www.dolibarr.org/onlinedemo.php), [源代码](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
 - [ERPNext](https://erpnext.com) - 免费开源 ERP 系统。 ([源代码](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
@@ -1664,9 +1664,9 @@ _相关: [资金、预算和管理](#money-budgeting--management), [库存管理
 
 ### 搜索引擎
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
-A[搜索引擎](https://en.wikipedia.org/wiki/Search_engine_(computing)) 是一种 [信息检索系统](https://en.wikipedia.org/wiki/Information_retrieval) ，旨在帮助查找存储在计算机系统上的信息。这包括 [网络搜索引擎](https://en.wikipedia.org/wiki/Web_search_engine)。
+[搜索引擎](https://en.wikipedia.org/wiki/Search_engine_(computing)) 是一种 [信息检索系统](https://en.wikipedia.org/wiki/Information_retrieval) ，旨在帮助查找存储在计算机系统上的信息。这包括 [网络搜索引擎](https://en.wikipedia.org/wiki/Web_search_engine)。
 
 - [Fess](https://fess.codelibs.org/) -  Fess 是一个非常强大且易于部署的企业搜索服务器。 ([演示](https://search.n2sm.co.jp/), [源代码](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
 - [Hound](https://github.com/hound-search/hound) - 闪电般快速的代码搜索变得简单。 `MIT` `Go/Docker`
@@ -1687,7 +1687,7 @@ A[搜索引擎](https://en.wikipedia.org/wiki/Search_engine_(computing)) 是一�
 
 ### 自托管解决方案
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于轻松安装、管理和配置自托管服务和应用程序的软件。
 
@@ -1716,17 +1716,17 @@ A[搜索引擎](https://en.wikipedia.org/wiki/Search_engine_(computing)) 是一�
 
 ### 软件开发
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [软件开发](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91) 是涉及创建和维护应用程序、框架或其他软件组件的构思、指定、设计、编程、记录、测试和错误修复的过程。
 
-**请访问 [软件开发 - API 管理](#software-development---api-management), [软件开发 - 持续集成和部署](#software-development---continuous-integration--deployment), [软件开发 - FaaS 和无服务器](#software-development---faas--serverless), [软件开发 - IDE 和工具](#software-development---ide--tools), [软件开发 - 本地化](#software-development---localization), [软件开发 - 低代码](#software-development---low-code), [软件开发 - 项目管理](#software-development---project-management), [软件开发 -测试](#software-development---testing)**
+**请访问 [软件开发 - API 管理](#软件开发---api-管理), [软件开发 - 持续集成和部署](#软件开发---持续集成和部署), [软件开发 - FaaS 和无服务器](#软件开发---faas-和无服务器), [软件开发 - IDE 和工具](#软件开发---ide-和工具), [软件开发 - 本地化](#软件开发---本地化), [软件开发 - 低代码](#软件开发---低代码), [软件开发 - 项目管理](#软件开发---项目管理), [软件开发 - 测试](#软件开发---测试)**
 
 
 
 ### 软件开发 - API 管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [API 管理(英文)](https://en.wikipedia.org/wiki/API_management) 是创建和发布 [应用程序编程接口 (API)](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3) 、执行其使用策略、控制访问、培育订阅者社区、收集和分析使用统计数据以及报告性能的过程。
 
@@ -1747,7 +1747,7 @@ A[搜索引擎](https://en.wikipedia.org/wiki/Search_engine_(computing)) 是一�
 
 ### 软件开发 - 持续集成和部署
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [持续集成](https://zh.wikipedia.org/wiki/%E6%8C%81%E7%BA%8C%E6%95%B4%E5%90%88) 和 [持续部署](https://zh.wikipedia.org/wiki/%E6%8C%81%E7%BA%8C%E9%83%A8%E7%BD%B2) 软件和工具。
 
@@ -1759,7 +1759,7 @@ _相关: [自动化](#自动化)_
 
 ### 软件开发 - FaaS 和无服务器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [无服务器计算](https://zh.wikipedia.org/wiki/%E7%84%A1%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%A8%88%E7%AE%97), [功能即服务 (FaaS)](https://zh.wikipedia.org/wiki/%E5%8A%9F%E8%83%BD%E5%8D%B3%E6%9C%8D%E5%8B%99) and [平台即服务 (Paas)](https://zh.wikipedia.org/wiki/%E5%B9%B3%E5%8F%B0%E5%8D%B3%E6%9C%8D%E5%8A%A1) 持续集成和持续部署软件和工具。
 
@@ -1776,11 +1776,11 @@ _相关: [自动化](#自动化)_
 
 ### 软件开发 - IDE 和工具
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [集成开发环境（IDE）](https://zh.wikipedia.org/wiki/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83) 是一种软件应用程序，为计算机程序员进行软件开发提供全面的设施。
 
-_相关: [软件开发 - 低代码](#software-development---low-code)_
+_相关: [软件开发 - 低代码](#软件开发---低代码)_
 
 - [Atheos](https://www.atheos.io) - 基于 Web 的 IDE 框架，占用空间小，要求最低，继承自 Codiad。 ([源代码](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 - [code-server](https://github.com/coder/code-server) - 浏览器中的 VS Code，托管在远程服务器上。 `MIT` `Nodejs/Docker`
@@ -1798,7 +1798,7 @@ _相关: [软件开发 - 低代码](#software-development---low-code)_
 
 ### 软件开发 - 本地化
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [本地化](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96) 是将代码和软件改编为其他语言的过程。
 
@@ -1810,11 +1810,11 @@ _相关: [软件开发 - 低代码](#software-development---low-code)_
 
 ### 软件开发 - 低代码
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [低代码](https://zh.wikipedia.org/wiki/%E4%BD%8E%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%96%8B%E7%99%BC%E5%B9%B3%E5%8F%B0) 开发平台（LCDP）提供了用于通过图形用户界面创建应用软件的开发环境。
 
-_相关: [软件开发 - IDE 和工具](#software-development---ide--tools)_
+_相关: [软件开发 - IDE 和工具](#软件开发---ide-和工具)_
 
 - [Appsmith](https://www.appsmith.com/) - 用于构建管理面板、CRUD 应用程序和工作流程的云或自托管开源平台。构建您需要的一切，速度提高 10 倍。 ([源代码](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
 - [Budibase](https://www.budibase.com) - 在几分钟内构建和自动化内部工具、管理面板、仪表板、CRUD 应用程序等（替代 Outsystems、Retool、Mendix、Appian）。 ([源代码](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs/Docker/K8S`
@@ -1825,13 +1825,13 @@ _相关: [软件开发 - IDE 和工具](#software-development---ide--tools)_
 - [ToolJet](https://tooljet.io/) - 低代码框架，用于以最少的工程工作量构建和部署内部工具（替代 Retool 和 Mendix） ([源代码](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs/Docker/K8S`
 
 
-### 软件开发-项目管理
+### 软件开发 - 项目管理
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于 [软件项目管理](https://zh.wikipedia.org/wiki/%E8%BB%9F%E4%BB%B6%E9%A0%85%E7%9B%AE%E7%AE%A1%E7%90%86)的工具和软件。
 
-_相关: [票务](#ticketing), [任务管理和待办事项列表](#task-management--to-do-lists)_
+_相关: [票务](#票务), [任务管理和待办事项列表](#任务管理和待办事项列表)_
 
 - [Cgit](https://git.zx2c4.com/cgit/about/) - 用于 git 存储库的快速轻量级 Web 界面。 ([源代码](https://git.zx2c4.com/cgit/tree/)) `GPL-2.0` `C`
 - [Forgejo](https://forgejo.org) - 一个专注于扩展、联合和隐私的轻量级软件锻造（Gitea 的分支）。 ([演示](https://next.forgejo.org), [源代码](https://codeberg.org/forgejo/forgejo/), [客户端](https://codeberg.org/forgejo-contrib/delightful-forgejo)) `MIT` `Docker/Go`
@@ -1872,9 +1872,9 @@ _相关: [票务](#ticketing), [任务管理和待办事项列表](#task-managem
 - [ZenTao](https://www.zentao.pm/) - 敏捷（scrum）项目管理系统/工具 ([演示](https://demo15.zentao.pm/), [源代码](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
 
-### 软件开发-测试
+### 软件开发 - 测试
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 用于 [软件测试](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95) 的工具和软件。
 
@@ -1886,19 +1886,19 @@ _相关: [票务](#ticketing), [任务管理和待办事项列表](#task-managem
 
 ### 静态站点生成器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [静态站点生成器(英文)](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) 根据原始数据、纯文本文件和一组模板生成完整的静态 HTML 网站。
 
 **请访问 [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
-_相关: [博客平台](#blogging-platforms), [照片和视频画廊](#photo-and-video-galleries), [内容管理系统 (CMS)](#content-management-systems-cms)_
+_相关: [博客平台](#博客平台), [照片和视频画廊](#照片和视频画廊), [内容管理系统 (CMS)](#内容管理系统-cms)_
 
 
 
 ### 状态/正常运行时间页面
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [正常运行时间](https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4) 是系统可靠性的衡量标准，表示为机器（通常是计算机）已工作且可用的时间百分比。
 
@@ -1913,11 +1913,11 @@ _相关: [监控](#监控)_
 
 ### 任务管理和待办事项列表
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [任务管理](https://en.wikipedia.org/wiki/Task_management#Task_management_software) 软件。
 
-_相关: [软件开发 - 项目管理](#software-development---project-management), [票务](#ticketing)_
+_相关: [软件开发 - 项目管理](#软件开发---项目管理), [票务](#票务)_
 
 - [AppFlowy](https://appflowy.io/) - 使用 AppFlowy，您可以为不同项目构建详细的待办事项列表，同时跟踪每个项目的状态。开源概念替代方案。 ([源代码](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
 - [Focalboard](https://www.focalboard.com/) - 定义、组织、跟踪和管理个人和团队的工作（替代 Trello、Notion 和 Asana）。 ([源代码](https://github.com/mattermost/focalboard), [客户端](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
@@ -1936,13 +1936,13 @@ _相关: [软件开发 - 项目管理](#software-development---project-managemen
 - [Wekan](https://wekan.github.io/) - 类似 Trello 的开源看板 ([源代码](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 
-### 售票处
+### 票务
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [帮助台(英文)](https://en.wikipedia.org/wiki/Help_desk_software), [错误](https://zh.wikipedia.org/wiki/%E7%BC%BA%E9%99%B7%E8%B7%9F%E8%B8%AA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) 和 [问题](https://zh.wikipedia.org/wiki/%E4%BA%8B%E5%8A%A1%E8%B7%9F%E8%B8%AA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) 跟踪软件可帮助跟踪用户请求、错误和缺失的功能。
 
-_相关: [任务管理和待办事项列表](#task-management--to-do-lists), [软件开发 - 项目管理](#software-development---project-management)_
+_相关: [任务管理和待办事项列表](#任务管理和待办事项列表), [软件开发 - 项目管理](#软件开发---项目管理)_
 
 - [Bugzilla](https://www.bugzilla.org/) - 最初由 Mozilla 项目开发和使用的通用错误跟踪器和测试工具。 `MPL-2.0` `Perl`
 - [django-todo](http://django-todo.org/) - 可插入、多用户、多组、多列表待办事项和票务系统 - 一个可重用的应用程序，旨在放入任何现有的 Django 项目中。 ([源代码](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`
@@ -1962,7 +1962,7 @@ _相关: [任务管理和待办事项列表](#task-management--to-do-lists), [�
 
 ### 时间跟踪
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [时间跟踪软件](https://en.wikipedia.org/wiki/Time-tracking_software) 是一类计算机软件，允许用户记录在任务或项目上花费的时间。
 
@@ -1974,7 +1974,7 @@ _相关: [任务管理和待办事项列表](#task-management--to-do-lists), [�
 
 ### 网址缩短器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [URL 缩短](https://zh.wikipedia.org/wiki/%E7%B8%AE%E7%95%A5%E7%B6%B2%E5%9D%80%E6%9C%8D%E5%8B%99) 是缩短 [URL](https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6) 的操作，使其变得更短，但仍直接指向所需页面。在托管之前，请先了解一下URL 缩短器的 [缺点](https://zh.wikipedia.org/wiki/%E7%B8%AE%E7%95%A5%E7%B6%B2%E5%9D%80%E6%9C%8D%E5%8B%99#%E5%AE%89%E5%85%A8%E6%80%A7%E5%95%8F%E9%A1%8C) 。
 
@@ -1996,11 +1996,11 @@ _相关: [任务管理和待办事项列表](#task-management--to-do-lists), [�
 
 ### 视频监控
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 视频监控，也称为 [闭路电视 (CCTV)](https://zh.wikipedia.org/wiki/%E9%96%89%E8%B7%AF%E9%9B%BB%E8%A6%96)，是使用摄像机在需要额外安全或持续监控的区域进行监控。
 
-_相关: [媒体流 - 视频流](#media-streaming---video-streaming)_
+_相关: [流媒体 - 视频流](#流媒体---视频流)_
 
 - [Bluecherry](https://www.bluecherrydvr.com/) - 支持 IP 和模拟摄像机的闭路电视 (CCTV) 软件应用程序。 ([源代码](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 - [Frigate](https://frigate.video/) - 使用本地处理的人工智能监控您的安全摄像头。 ([源代码](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
@@ -2011,7 +2011,7 @@ _相关: [媒体流 - 视频流](#media-streaming---video-streaming)_
 
 ### VPN
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [虚拟专用网络 (VPN)](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF) 在公共网络上扩展专用网络，使用户能够跨共享或公共网络发送和接收数据，就好像他们的计算设备直接连接到专用网络一样。
 
@@ -2021,17 +2021,17 @@ _相关: [媒体流 - 视频流](#media-streaming---video-streaming)_
 
 ### 网络服务器
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
-A[Web服务器](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8) 服务器是一个软件和底层硬件，它通过 [HTTP](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE) （为分发 Web 内容而创建的网络协议）或其安全变体 [HTTPS](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE)接受请求。
+[Web服务器](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8) 服务器是一个软件和底层硬件，它通过 [HTTP](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE) （为分发 Web 内容而创建的网络协议）或其安全变体 [HTTPS](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE)接受请求。
 
 **请访问 [awesome-sysadmin/Web](https://github.com/awesome-foss/awesome-sysadmin#web)**
 
 
 
-### Wikis
+### Wiki
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 [wiki](https://zh.wikipedia.org/wiki/Wiki) 是由其自己的受众直接使用网络浏览器协作编辑和管理的出版物。
 
@@ -2067,7 +2067,7 @@ _也可以看看: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki softw
 
 ## 许可证清单
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 - `0BSD` - [BSD Zero-Clause Licence](https://spdx.org/licenses/0BSD.html)
 - `AAL` - [Attribution Assurance License](https://spdx.org/licenses/AAL.html)
@@ -2118,13 +2118,13 @@ _也可以看看: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki softw
 
 --------------------
 
-## External Links
+## 外部链接
 
-**[`^        回到顶部        ^`](#awesome-selfhosted-Chinese)**
+**[`^        回到顶部        ^`](#awesome-selfhosted-chinese)**
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精选的令人惊叹的开源系统管理资源列表。
 - 以某种形式实现隐私和去中心化的软件列表: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/), [Easy Indie App](https://easyindie.app)
-- 其他很棒的列表: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- 其他很 "Wow Awesome" 的列表: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - 动态域名服务: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 - 社区/论坛: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 - [theme.park](https://theme-park.dev/) - 50 个自托管应用程序的主题/皮肤集合 ([源代码](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
@@ -2136,8 +2136,8 @@ _也可以看看: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki softw
 
 可以在 [此处](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md)找到贡献指南。
 
-## 执照
+## 许可证
 
-此列表遵循 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
+此列表遵循 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) 许可证.  
 [此处](https://creativecommons.org/licenses/by-sa/3.0/) 总结了许可条款。  
 作者列表可以在 [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) 文件中找到。
